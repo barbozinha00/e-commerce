@@ -37,3 +37,10 @@ npm run dev
 # ou
 yarn dev
 
+![Captura de tela 2025-06-07 173742](https://github.com/user-attachments/assets/f4e87517-4b0a-429c-a271-fd0ca44eec43)
+![Captura de tela 2025-06-07 173711](https://github.com/user-attachments/assets/64e9ee16-262a-42b1-82b0-1798bd6225ac)
+![Captura de tela 2025-06-07 173618](https://github.com/user-attachments/assets/274f5044-3f8c-4eeb-b575-e256eeff38ff)
+![Captura de tela 2025-06-07 173423](https://github.com/user-attachments/assets/bce26863-c141-43e4-98fa-6c2ac804091c)
+
+Link Youtube:
+https://www.youtube.com/watch?v=7P-ZOSPBd-I
